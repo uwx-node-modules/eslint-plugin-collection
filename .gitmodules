@@ -1,0 +1,15 @@
+[submodule "eslint-plugin-css"]
+	path = eslint-plugin-css
+	url = https://github.com/uwx/eslint-plugin-css
+[submodule "eslint-plugin-json"]
+	path = eslint-plugin-json
+	url = https://github.com/uwx/eslint-plugin-json
+[submodule "eslint-plugin-lmjson"]
+	path = eslint-plugin-lmjson
+	url = https://github.com/uwx/eslint-plugin-lmjson.git
+[submodule "eslint-plugin-yaml"]
+	path = eslint-plugin-yaml
+	url = https://github.com/uwx/eslint-plugin-yaml
+[submodule "eslint-processor-rules"]
+	path = eslint-processor-rules
+	url = https://github.com/uwx/eslint-processor-rules
