@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-yaml",
+  "description": "Lint YAML files",
+  "version": "2.8.1",
+  "author": "uwx / Peter deHaan",
+  "bugs": {
+    "url": "https://github.com/uwx/eslint-plugin-yaml/issues"
+  },
+  "dependencies": {
+    "js-yaml": "3.9.1"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "yaml",
+    "eslint-plugin-yaml"
+  ],
+  "license": "ISC",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uwx/eslint-plugin-yaml"
+  },
+  "url": "https://github.com/uwx/eslint-plugin-yaml"
+}
