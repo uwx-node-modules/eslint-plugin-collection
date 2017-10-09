@@ -59,6 +59,5 @@ module.exports.processors = {
     ".json": prepro,
     ".sublime-settings": prepro,
     ".sublime-keymap": prepro,
-    ".sublime-theme": prepro,
 };
 
