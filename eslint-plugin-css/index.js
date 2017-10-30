@@ -4,7 +4,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 var CSSLint = require('csslint').CSSLint;
-var Settings = require('eslint-processor-rules');
+var Settings = require('../eslint-processor-rules');
 
 //------------------------------------------------------------------------------
 // Plugin Definition
