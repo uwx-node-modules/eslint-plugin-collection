@@ -31,7 +31,7 @@
   "dependencies": {
     "csslint": "^1.0.5",
     "line-column": "^1.0.2",
-    "lmjson": "uwx/lmjson"
+    "lmjson": "uwx-node-modules/lmjson"
   },
   "devDependencies": {
     "chai": "^3.4.1",
